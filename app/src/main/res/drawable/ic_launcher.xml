@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App + notification icon: a down-arrow dropping into a tray. Vector, so one
+     file serves every screen density. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- arrow shaft + head -->
+    <path
+        android:fillColor="#FF2F7DE1"
+        android:pathData="M11,3h2v9h3l-4,4.5L8,12h3z" />
+    <!-- tray -->
+    <path
+        android:fillColor="#FF2F7DE1"
+        android:pathData="M4,15h2v4h12v-4h2v6H4z" />
+</vector>
